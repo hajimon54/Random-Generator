@@ -1,0 +1,15 @@
+.random-title{
+    display: flex;
+    justify-content: center;
+}
+
+#random-name{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.generate-name{
+    margin: auto;
+    display: block;
+}
